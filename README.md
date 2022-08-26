@@ -25,13 +25,14 @@ Use this code in dataset directory to create train test splits.
 !python train_test_split.py --split 0.2
 ```
 
-## 4. Augment Dataset
 
-## 5. Image Samples
+## 4. Image Samples
+
 
 <p align="center"><img src="Samples/sample_Images.jpg"></p>
 
-## 6. Citations
+
+## 5. Citations
 If you find this repository helpful and decided to utilize IRRDD in your research project, consider citing us as below:
 ```bibtex
 @INPROCEEDINGS{,
