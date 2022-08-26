@@ -23,7 +23,7 @@ This repository contains the documentation and download links for the 2022 Iran 
 ## 4. Citations
 If you find this repository helpful and decided to utilize IRRDD in your research project, consider citing us as below:
 ```bibtex
-@INPROCEEDINGS{iadd,
+@INPROCEEDINGS{IRRDD,
   author={},
   booktitle={}, 
   title={}, 
