@@ -1,2 +1,3 @@
-# Iran-Road-Damage-Dataset
-This repository contain Iran road damage dataset
+# Iran Road Damage Dataset
+This repository contains the documentation and download links for the 2022 Iran road damage dataset (IRRDD). 
+
