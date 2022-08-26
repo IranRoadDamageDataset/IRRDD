@@ -2,7 +2,7 @@
 This repository contains the documentation and download links for the 2022 IRRDD. 
 ## 1. Descriptions 
   1. IRRDD contains 25000 images.
-  2. IRRDD contains for damage class
+  2. IRRDD contains four damage class
   3. All annotation are provided in YOLO format.
   
   | Damage type  | Class name |
