@@ -23,7 +23,7 @@ This repository contains the documentation and download links for the 2022 IRRDD
 ## 4. Citations
 If you find this repository helpful and decided to utilize IRRDD in your research project, consider citing us as below:
 ```bibtex
-@INPROCEEDINGS{IRRDD,
+@INPROCEEDINGS{,
   author={},
   booktitle={}, 
   title={}, 
